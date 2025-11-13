@@ -11,7 +11,7 @@ using namespace std;
 int main() {
   srand (time(NULL));
 
-  int computer = rand() % 3 + 1;
+  int computer = rand() % 5 + 1;
 
   int user = 0;
   
